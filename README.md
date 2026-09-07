@@ -1,4 +1,4 @@
-[▶ Play online — no installation](https://retro-museum-games-482805962191.asia-southeast1.run.app/g/tanks)
+[▶ Play online — no installation](https://play.retro-museum.net/g/tanks)
 
 # Tanks · Ricochets
 
