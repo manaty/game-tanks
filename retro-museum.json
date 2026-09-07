@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "tanks",
+  "version": "1.0.0",
+  "title": {
+    "en": "Tanks · Ricochets",
+    "fr": "Tanks · Ricochets",
+    "tl": "Mga Tangke · Ricochets"
+  },
+  "description": {
+    "en": "Play Tanks · Ricochets together on a shared screen, using phones as controllers. 2–5 players.",
+    "fr": "Jouez à Tanks · Ricochets ensemble sur un écran partagé, avec les téléphones comme manettes. 2 à 5 joueurs.",
+    "tl": "Maglaro ng Mga Tangke · Ricochets sa isang shared screen gamit ang mga telepono. 2–5 na manlalaro."
+  },
+  "author": "Manaty",
+  "license": "MIT",
+  "languages": [
+    "en",
+    "fr",
+    "tl"
+  ],
+  "players": {
+    "min": 2,
+    "max": 5
+  },
+  "durationMinutes": 15,
+  "runtime": "quickjs-v1",
+  "entry": "dist/game.rmg.json",
+  "permissions": [],
+  "activityKey": "tanks",
+  "options": {}
+}
