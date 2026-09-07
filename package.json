@@ -6,7 +6,8 @@
   "description": "Play Tanks · Ricochets together on a shared screen, using phones as controllers. 2–5 players.",
   "exports": {
     "./engine": "./server/tanks.js",
-    "./package": "./dist/game.rmg.json"
+    "./package": "./dist/game.rmg.json",
+    "./public/*": "./public/*"
   },
   "scripts": {
     "build": "node build.mjs",

@@ -1,3 +1,5 @@
+[▶ Play online — no installation](https://retro-museum-games-482805962191.asia-southeast1.run.app/g/tanks)
+
 # Tanks · Ricochets
 
 Play Tanks · Ricochets together on a shared screen, using phones as controllers. 2–5 players.
